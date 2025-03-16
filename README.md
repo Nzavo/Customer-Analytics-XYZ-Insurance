@@ -15,7 +15,6 @@ This repository contains all assets for building a 360° Customer Analytics solu
    - Includes scripts or configuration files used for setting up the pipeline.
 
 3. **SQL Server Database & Views**  
-   - Create a database to store the data
    - All data is stored in the **XYZ Insurance Database** on SQL Server.
    - Contains tables for Customers, Policies, Claims, and Communications.
    - Includes views (`VW_Customer_Overview`, `VW_Policy_Portfolio`, `VW_Claims_Overview`, `VW_Communications_Overview`) that aggregate or simplify the data for analytics and reporting.
