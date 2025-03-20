@@ -43,5 +43,5 @@ This repository contains all assets for building a 360° Customer Analytics solu
    - Run the scripts in `sql/` to create the analytics-friendly views.
 
 4. **Open Power BI Dashboards**  
-   - Launch the `360° Customer Dashboard.pbix.pbix` file to explore the 360° dashboards.
+   - Launch the `360° Customer Dashboard.pbix` file to explore the 360° dashboards.
 
