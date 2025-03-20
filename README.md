@@ -29,7 +29,7 @@ This repository contains all assets for building a 360° Customer Analytics solu
 - **Data-Generation-Scripts/**: Python scripts for generating synthetic insurance data.  
 - **XYZ Insurance Database Solution/**: Visual Studio solution and supporting files for ingesting CSV data into SQL Server.  
 - **sql/**: SQL scripts for table creation, view definitions, and indexing.  
-- **360° Customer Dashboard.pbix.pbix**: Power BI report for the 360° dashboards.
+- **360° Customer Dashboard.pbix**: Power BI report for the 360° dashboards.
 
 ## How to Use
 
