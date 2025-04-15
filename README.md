@@ -83,6 +83,10 @@ Here’s a visual representation of the data flow across the solution:
 - **sql/**: SQL scripts for table creation, view definitions, and indexing.  
 - **360° Customer Dashboard.pbix**: Power BI report for the 360° dashboards.
 
+## 📽️ Dashboard Walkthrough (Video)
+Want a quick tour of the dashboard?
+👉 Watch the video walkthrough here (Documentationn/Dashboard-Walkthrough.mp4)
+
 ## How to Use
 
 1. **Generate Data**  
