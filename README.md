@@ -84,8 +84,10 @@ Here’s a visual representation of the data flow across the solution:
 - **360° Customer Dashboard.pbix**: Power BI report for the 360° dashboards.
 
 ## 📽️ Dashboard Walkthrough (Video)
+
+
 Want a quick tour of the dashboard?
-👉 Watch the video walkthrough here (Documentationn/Dashboard-Walkthrough.mp4)
+👉 [Watch the video walkthrough on YouTube](https://youtu.be/1LCjLMATlIQ)
 
 ## How to Use
 
