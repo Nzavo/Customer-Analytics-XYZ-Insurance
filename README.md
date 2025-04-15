@@ -63,7 +63,7 @@ This repository contains all assets for building a 360° Customer Analytics solu
       
      - Positive Sentiment: 19.84%
 
-360° Customer Insights Dashboard ![Customer Insights](https://github.com/Nzavo/Customer-Analytics-XYZ-Insurance/Documentationn/360°-Customer-Insights-Dashboard.png)
+360° Customer Insights Dashboard ![Customer Insights](Documentationn/360°-Customer-Insights-Dashboard.png)
 
 Claims Performance & Trends Dashboard ![Customer Insights](https://github.com/Nzavo/Customer-Analytics-XYZ-Insurance/Documentationn/Claims-Performance-&-Trends-Dashboard.png)
 
