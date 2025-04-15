@@ -23,11 +23,63 @@ This repository contains all assets for building a 360° Customer Analytics solu
    - Four dashboards focusing on Customer Insights, Claims Performance, Policy Portfolio, and Communications & Sentiment.
    - Interactive visuals and filters (Insurance Type, Customer Name, Gender) enable a 360° view of each customer’s journey.
 
+
+## Key Metrics Highlighted
+1. Customer Insights
+
+     - Total Customers: 10K
+      
+     - Avg Policy Per Customer: 2.01
+   
+     - Claims Approved by Age & Region
+   
+     - Sentiment Index: -0.22
+
+2. Claims Performance
+
+     - Total Claims: 30K
+      
+     - Claims Approved: 33.19%
+      
+     - Total Claim Amount: 2.06B
+      
+     - Monthly Claims Trend
+
+3. Policy Portfolio
+
+     - Total Policies Issued: 20K
+      
+     - Active Policies: 12K
+      
+     - Expired Policies: 8,325
+      
+     - Premium Total: 55M
+
+3. Communications & Sentiment
+
+     - Total Communications: 30K
+      
+     - Total Complaints: 9.9K
+      
+     - Positive Sentiment: 19.84%
+
+360° Customer Insights Dashboard ![Customer Insights](https://github.com/Nzavo/Customer-Analytics-XYZ-Insurance/tree/main/Documentation/image.png)
+
+Claims Performance & Trends Dashboard ![Customer Insights](https://github.com/Nzavo/Customer-Analytics-XYZ-Insurance/tree/main/Documentation/image.png)
+
+## Data Flow Diagram
+
+Here’s a visual representation of the data flow across the solution:   
+![Customer Insights](https://github.com/Nzavo/Customer-Analytics-XYZ-Insurance/tree/main/Documentation/image.png)
+
+
 ## Repository Structure
 
 
-- **Data-Generation-Scripts/**: Python scripts for generating synthetic insurance data.  
-- **XYZ Insurance Database Solution/**: Visual Studio solution and supporting files for ingesting CSV data into SQL Server.  
+- **Data-Generation-Scripts/**: Python scripts for generating synthetic insurance data.
+- **Data**: This contains the CSV files of the data generated
+- **Documentation**: This contains the document highlighting the flow of this project
+- **XYZ Insurance Database Solution/**: This is a Visual Studio solution and supporting files for ingesting CSV data into SQL Server.  
 - **sql/**: SQL scripts for table creation, view definitions, and indexing.  
 - **360° Customer Dashboard.pbix**: Power BI report for the 360° dashboards.
 
