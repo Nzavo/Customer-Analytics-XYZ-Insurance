@@ -87,7 +87,7 @@ Here’s a visual representation of the data flow across the solution:
 
 
 Want a quick tour of the dashboard?
-👉 [Watch the video walkthrough on YouTube](https://youtu.be/1LCjLMATlIQ)
+👉 [Watch the video walkthrough on YouTube](https://youtu.be/DD3ElKJLgzM)
 
 ## How to Use
 
