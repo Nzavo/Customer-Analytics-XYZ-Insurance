@@ -65,12 +65,12 @@ This repository contains all assets for building a 360° Customer Analytics solu
 
 360° Customer Insights Dashboard ![Customer Insights](Documentationn/360°-Customer-Insights-Dashboard.png)
 
-Claims Performance & Trends Dashboard ![Customer Insights](https://github.com/Nzavo/Customer-Analytics-XYZ-Insurance/Documentationn/Claims-Performance-&-Trends-Dashboard.png)
+Claims Performance & Trends Dashboard ![Customer Insights](Documentationn/Claims-Performance-&-Trends-Dashboard.png)
 
 ## Data Flow Diagram
 
 Here’s a visual representation of the data flow across the solution:   
-![Customer Insights](https://github.com/Nzavo/Customer-Analytics-XYZ-Insurance/Documentationn/Solution-Architecture.png)
+![Customer Insights](Documentationn/Solution-Architecture.png)
 
 
 ## Repository Structure
